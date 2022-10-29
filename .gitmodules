@@ -1,0 +1,3 @@
+[submodule "themes/Personal"]
+	path = themes/Personal
+	url = git@github.com:PythonPizzaDE/Personal.git
