@@ -1,3 +1,6 @@
+---
+title: "Paul Frische - Personal Website - Blog"
+---
 # Welcome!
 
 
