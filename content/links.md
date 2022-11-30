@@ -2,8 +2,9 @@
 title: "Links"
 ---
 
-## Github
+# Social networks
 - [here](https://github.com/PythonPizzaDE)
+- <a rel="me" href="https://social.linux.pizza/@paulfrische">Mastodon</a>
 
 ## Software I use:
 - [I use Arch btw](https://archlinux.org/)
